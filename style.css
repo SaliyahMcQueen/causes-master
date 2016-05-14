@@ -1,0 +1,33 @@
+body{
+	background-color: #6F3662;
+	outline-color: black;
+}
+
+h1{
+	outline-color: white;
+	text-align: center;
+}
+h2{
+	text-align:center;
+}
+p{
+	color:#FF7182;
+	text-align: left;
+	line-height: 200%;
+}
+img {
+    margin: auto;
+   /* width: 60%;*/
+    border: 3px solid #73AD21;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+}
+nav{
+	color: white;
+	text-align: center;
+	font-size-adjust: 1000px;
+}
+  
+
+
